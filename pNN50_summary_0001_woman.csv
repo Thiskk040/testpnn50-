@@ -1,0 +1,8 @@
+Character_status,pNN50,rr_count
+LeftHandToFace,0.04 %,2724
+LetfHandToBody,0.0 %,961
+RightHandToBody,0.0 %,1021
+RightHandToFace,0.04 %,2238
+TouchBody,0.0 %,1518
+TouchFace,0.12 %,822
+Walk,0.0 %,1350
